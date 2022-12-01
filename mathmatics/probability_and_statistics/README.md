@@ -1,3 +1,3 @@
 # Probability
-## Probability
-## Basian
+
+# Statistics
