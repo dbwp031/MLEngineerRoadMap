@@ -23,7 +23,7 @@
     * 따라서 농부일 가능성이 더 높다.
    * Maximum A Posterori
      * $P(H\text{사서}|E)P(\text{사서})$
-     * $P(H\text{농부}|E)P(\text{사서})$
+     * $P(H\text{농부}|E)P(\text{농부})$
 # 기계학습 수업 예시 기준
 * 개:고양이:호랑이=5,4,1 (라는 통계가 있다 하자.)
 ### Case 1
