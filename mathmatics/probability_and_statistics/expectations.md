@@ -12,7 +12,9 @@
 
 $$
 S = {H,T} \text{이렇게 숫자가 아닌 sample point를 실수로 표현해주는 함수}
+$$
 
+$$
 X=
 \begin{cases} 
 0 & (H) \\
@@ -20,4 +22,10 @@ X=
 \end{cases}
 $$
 
-![image](./images/image.png)k
+![image](./images/image.png)
+
+## Independence
+* Independent Events
+  * $P(A\cap B) = P(A)P(B)$
+  * $P(\cap_{i=1}^{n}A_i)=\prod^{n}_{i=1}P(A_i)$
+* Independent Random Variables
